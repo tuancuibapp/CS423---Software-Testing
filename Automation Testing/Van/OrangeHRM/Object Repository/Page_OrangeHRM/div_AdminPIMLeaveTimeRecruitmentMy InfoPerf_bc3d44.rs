@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AdminPIMLeaveTimeRecruitmentMy InfoPerf_bc3d44</name>
+   <tag></tag>
+   <elementGuidId>b6ce4167-84a4-46a5-9af2-1849f7cdc425</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#app</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cb5c51e5-106f-49c9-99a8-574dceda8b02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>app</value>
+      <webElementGuid>c59ba288-c2af-4088-9b5d-1627d417427c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AdminPIMLeaveTimeRecruitmentMy InfoPerformanceDashboardDirectoryMaintenanceBuzzRecruitmentAdmin 1CandidatesVacanciesEdit VacancyVacancy NameJob TitleQA EngineerDescriptionHiring ManagerNumber of PositionsActivePublish in RSS Feed and Web PageRSS Feed URL : http://localhost:8181/web/index.php/recruitmentApply/jobs.rssWeb Page URL : http://localhost:8181/web/index.php/recruitmentApply/jobs.html * Required Cancel  Save Attachments Add No Records FoundFile NameFile SizeFile TypeCommentActionsOrangeHRM OS 5.2© 2005 - 2022 OrangeHRM, Inc. All rights reserved.</value>
+      <webElementGuid>b1ddae47-431a-4efe-ab99-fff93e5c9e2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)</value>
+      <webElementGuid>6a9bd177-8a01-4df4-ba56-d8282db1e160</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='app']</value>
+      <webElementGuid>d32a26e4-5fe6-4eeb-9506-637aa6077130</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div</value>
+      <webElementGuid>b37e0de3-932c-4273-b142-9a75a3143ac5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'app' and (text() = 'AdminPIMLeaveTimeRecruitmentMy InfoPerformanceDashboardDirectoryMaintenanceBuzzRecruitmentAdmin 1CandidatesVacanciesEdit VacancyVacancy NameJob TitleQA EngineerDescriptionHiring ManagerNumber of PositionsActivePublish in RSS Feed and Web PageRSS Feed URL : http://localhost:8181/web/index.php/recruitmentApply/jobs.rssWeb Page URL : http://localhost:8181/web/index.php/recruitmentApply/jobs.html * Required Cancel  Save Attachments Add No Records FoundFile NameFile SizeFile TypeCommentActionsOrangeHRM OS 5.2© 2005 - 2022 OrangeHRM, Inc. All rights reserved.' or . = 'AdminPIMLeaveTimeRecruitmentMy InfoPerformanceDashboardDirectoryMaintenanceBuzzRecruitmentAdmin 1CandidatesVacanciesEdit VacancyVacancy NameJob TitleQA EngineerDescriptionHiring ManagerNumber of PositionsActivePublish in RSS Feed and Web PageRSS Feed URL : http://localhost:8181/web/index.php/recruitmentApply/jobs.rssWeb Page URL : http://localhost:8181/web/index.php/recruitmentApply/jobs.html * Required Cancel  Save Attachments Add No Records FoundFile NameFile SizeFile TypeCommentActionsOrangeHRM OS 5.2© 2005 - 2022 OrangeHRM, Inc. All rights reserved.')]</value>
+      <webElementGuid>1875dfbb-c12e-4df3-9620-b270be3fcdec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
