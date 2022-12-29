@@ -1,0 +1,8 @@
+No.,Description,From Date,To Date,Show Leave with Status,Leave Type,Employee Name,Sub Unit,Include Past Employees,Expected Result
+1,Default form,2022-01-01,2022-12-31,Pending Approval,,,,No,Search success
+2,"Date before default, exist name",2021-01-01,2021-12-31,Rejected,CAN - Personal,Admin Admin,Engineering,Yes,Search success
+3,"Date after default, mulitiple status",2023-01-01,2023-12-31,"Cancelled, Rejected, Scheduled",,,Engineering,No,Search success
+4,"From date equals to date, all status",2022-12-30,2022-12-30,"Rejected, Cancelled, Pending Approval, Scheduled, Taken",US - Matternity,,,No,Search success
+5,From Date after To Date,2023-01-01,2022-12-31,Pending Approval,,,,No,Search fail
+6,No leave status,2022-01-01,2022-12-31,,,,,No,Search fail
+7,Not exist employee,2022-01-01,2022-12-31,Pending Approval,,abcde,,No,Search fail

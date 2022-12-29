@@ -1,0 +1,10 @@
+No.,Description,Employee Name,Employee Id,Employments Status,Include,Supervisor Name,Job Title,Sub Unit,Expected Result
+1,Empty form,,,,Current Employees Only,,,,Search success
+2,All valid 1,Admin Admin,"0001",Freelance,Current Employees Only,Admin Admin,Account Assistant,OrangeHRM,Search success
+3,All valid 2,123456789,"0000",Part-Time Internship,Current and Past Employees,,VP - Sales & Marketing,Human Resources,Search success
+4,All valid 3,@#$!@#$,"1234567890",Full-Time Contract,Past Employees Only,,Content Specialist,Accounting,Search success
+5,All valid 4,0123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789,,,Current Employees Only,,,Information Technology,Search success
+6,Too long employee name,01234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890,,,Current Employees Only,,,,Search fail
+7,Non-number ID,,abcd,,Current Employees Only,,,,Search fail
+8,Too long ID,,"01234567890",,Current Employees Only,,,,Search fail
+9,Non-exist Supervisor name,,,,Current Employees Only,abcde,,,Search fail
