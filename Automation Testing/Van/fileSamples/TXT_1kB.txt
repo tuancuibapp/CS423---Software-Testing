@@ -1,0 +1,9 @@
+D:\Projects\HCMUS\CS423_SoftwareTesting\OrangeHRM\fileSamples\PDF_1MB.pdf
+D:\Projects\HCMUS\CS423_SoftwareTesting\OrangeHRM\fileSamples\PDF_500kB.pdf
+D:\Projects\HCMUS\CS423_SoftwareTesting\OrangeHRM\fileSamples\PDF_2MB.pdf
+D:\Projects\HCMUS\CS423_SoftwareTesting\OrangeHRM\fileSamples\RTF_500kB.rtf
+D:\Projects\HCMUS\CS423_SoftwareTesting\OrangeHRM\fileSamples\DOC_500kB.doc
+D:\Projects\HCMUS\CS423_SoftwareTesting\OrangeHRM\fileSamples\PNG_500kB.PNG
+D:\Projects\HCMUS\CS423_SoftwareTesting\OrangeHRM\fileSamples\DOCX_500kB.docx
+D:\Projects\HCMUS\CS423_SoftwareTesting\OrangeHRM\fileSamples\JPG_500kB.jpg
+D:\Projects\HCMUS\CS423_SoftwareTesting\OrangeHRM\fileSamples\ODT_500kB.odt

@@ -1,0 +1,16 @@
+ID,vacancy_name,job_title,description,hiring_manager,number_of_positions,expected_result
+TC #1,QA Fresher,Select: QA Engineer,QA Fresher for HCMUS,Admin 1,2,Valid
+TC #2,,Select: QA Engineer,QA Fresher for HCMUS,Admin 1,2,Invalid
+TC #3,A,Select: QA Engineer,QA Fresher for HCMUS,Admin 1,2,Valid
+TC #4,PBqKFpcmHjPV0YCZwr4gwIWqAcvKBN4tCbsMbObeJosg011LNW,Select: QA Engineer,QA Fresher for HCMUS,Admin 1,2,Valid
+TC #5,PBqKFpcmHjPV0YCZwr4gwIWqAcvKBN4tCbsMbObeJosg011LNWf,Select: QA Engineer,QA Fresher for HCMUS,Admin 1,2,Invalid
+TC #6,QA Fresher1,Non-selected,QA Fresher for HCMUS,Admin 1,2,Invalid
+TC #7,QA Fresher2,Select: QA Engineer,,Admin 1,2,Valid
+TC #8,QA Fresher3,Select: QA Engineer,QA Fresher for HCMUS,Admin,2,Invalid
+TC #9,QA Fresher4,Select: QA Engineer,QA Fresher for HCMUS,Admin 1,a,Invalid
+TC #10,QA Fresher5,Select: QA Engineer,QA Fresher for HCMUS,Admin 1,1.2,Invalid
+TC #11,QA Fresher6,Select: QA Engineer,QA Fresher for HCMUS,Admin 1,-1,Invalid
+TC #12,QA Fresher7,Select: QA Engineer,QA Fresher for HCMUS,Admin 1,0,Invalid
+TC #13,QA Fresher8,Select: QA Engineer,QA Fresher for HCMUS,Admin 1,1,Valid
+TC #14,QA Fresher9,Select: QA Engineer,QA Fresher for HCMUS,Admin 1,99,Valid
+TC #15,QA Fresher10,Select: QA Engineer,QA Fresher for HCMUS,Admin 1,100,Invalid
