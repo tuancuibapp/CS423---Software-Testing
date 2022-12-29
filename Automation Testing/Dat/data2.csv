@@ -1,0 +1,21 @@
+﻿ID,Employee Name,Job Title,Review Status,Include,Reviewer,From Date,To Date,Expected Result
+1,,Not selecting,Not selecting,Not selecting,,Not selecting,Not selecting,Search success. Show results in result section
+2,"""Kevin  Mathews""",Not selecting,Not selecting,Not selecting,"""some one""",Not selecting,Not selecting,Search success. Show results in result section
+3,"""asdascxzczx""",Not selecting,Not selecting,Not selecting,,Not selecting,Not selecting,"Search failed, not start searching. Mark Employee Name field as invalid"
+4,,Software Engineer,Not selecting,Not selecting,,Not selecting,Not selecting,Search success. Show results in result section
+5,,Software Engineer,In-Progress,Not selecting,,Not selecting,Not selecting,Search success. Show results in result section
+,,,,,,,,
+6,,Software Engineer,In-Progress,Current Employee Only,,Not selecting,Not selecting,Search success. Show results in result section
+,,,,,,,,
+,,,,,,,,
+7,,Not selecting,Not selecting,Not selecting,,1/1/2022,12/31/2022,Search success. Show results in result section
+8,,Not selecting,Not selecting,Not selecting,,Not selecting,12/31/2022,Search success. Show results in result section
+9,,Not selecting,Not selecting,Not selecting,,1/1/2022,Not selecting,Search success. Show results in result section
+10,,Not selecting,Not selecting,Not selecting,,2022-01asd-01,12/31/2022,"Search failed, not start searching. Mark From Date field as invalid"
+11,,Not selecting,Not selecting,Not selecting,,1/1/2022,2022-12asd-31,"Search failed, not start searching. Mark To Date field as invalid"
+12,,Not selecting,Not selecting,Not selecting,,12/31/2022,12/1/2022,"Search failed, not start searching. Mark both Date field as invalid"
+13,,Not selecting,Not selecting,Not selecting,,12/31/2022,12/31/2022,Search success. Show results in result section
+14,"""Kevin  Mathews""",Software Engineer,In-Progress,Current Employee Only,"""some one""",12/31/2022,12/31/2022,Search success. Show results in result section
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

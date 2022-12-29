@@ -1,0 +1,10 @@
+﻿ID,Username,User Role,Employee Name,Status,Expected result
+1,,Not selecting,"""Kevin  Mathews""",Not selecting,Search success. Show results in result section
+2,,Not selecting,"""Kevin  Mathews""",Enabled,Search success. Show results in result section
+,,,,,
+3,,ESS,"""Kevin  Mathews""",Enabled,Search success. Show results in result section
+,,,,,
+,,,,,
+4,,Not selecting,"""asdascxzczx""",Enabled,"Search failed, not start searching. Mark Employee Name field as invalid"
+5,"""abc""",Not selecting,,Not selecting,Search success. Show results in result section
+6,,Not selecting,,Not selecting,Search success. Show results in result section
